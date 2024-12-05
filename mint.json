@@ -52,7 +52,7 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
+        "home",
         "quickstart",
         "development"
       ]
